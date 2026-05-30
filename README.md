@@ -14,7 +14,7 @@ Unlike previous mod loaders, which merely inject the DLLs and let devs handle th
 
 Geode's goal is to solve **mod incompatibility** - to ensure that mods work together without buttons getting misplaced or hooks mysteriously disappearing.
 
-## "Hello World!" Example 
+## "Hello World!" Example  
  
 Here's a **Hello World** mod in Geode:
 
