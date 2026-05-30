@@ -5,6 +5,9 @@
 
 <p align="center"><b>Geode</b> is a <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> <b>mod loader</b> and <b>modding SDK</b> with a modern approach towards mod development.</p>
 
+###### [DOWNLOAD GEODE](https://discord.gg/9e43WMKzh)
+
+
 ## Why Geode?
 
 Unlike previous mod loaders, which merely inject the DLLs and let devs handle the rest, Geode aims to be a more comprehensive project that provides all the tools needed for creating mods in one package.
@@ -37,3 +40,5 @@ This code modifies what happens when the "More Games" button is clicked on the h
 ## Questions, help, etc.
 
 If you have any further questions, need help, or just want to share your love for catgirls, be sure to join [our Discord server](https://discord.gg/9e43WMKzh)!
+
+
