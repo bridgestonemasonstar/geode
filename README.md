@@ -11,7 +11,7 @@
 ## Why Geode?   
  
 Unlike previous mod loaders, which merely inject the DLLs and let devs handle the rest, Geode aims to be a more comprehensive project that provides all the tools needed for creating mods in one package.    
-
+ 
 Geode's goal is to solve **mod incompatibility** - to ensure that mods work together without buttons getting misplaced or hooks mysteriously disappearing.
 
 ## "Hello World!" Example  
