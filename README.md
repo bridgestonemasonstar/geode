@@ -16,7 +16,7 @@ Geode's goal is to solve **mod incompatibility** - to ensure that mods work toge
 
 ## "Hello World!" Example  
  
-Here's a **Hello World** mod in Geode:
+Here's a **Hello World** mod in Geode: 
 
 ```cpp
 #include <Geode/Bindings.hpp>
